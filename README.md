@@ -1,7 +1,7 @@
 <div align="center">
   <p>Open Source</p>
 <img style="float: right; border: 0px;" width="100%" src="https://media1.giphy.com/media/7b8jdNUoFBdcoILjjv/giphy.gif?cid=790b7611bfd157e75870d8aac4f8152b63c22e7e9ae1bd2c&rid=giphy.gif&ct=g" />
-![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gorgonx7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 <img src="https://komarev.com/ghpvc/?username=Gorgonx7&color=brightgreen" alt="watching_count" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gorgonx7&theme=tokyonight" alt="mystreak"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gorgonx7&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
